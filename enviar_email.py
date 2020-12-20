@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-##Criador : D3pl0yzz Epysp
-##Redes social : whatsapp (82)981690602
+##Criador : Epysp
 
 #importando lib
 
@@ -30,5 +29,3 @@ server.sendmail(f"{seu_email}",f"{para_email}",f"{mensagem}")
 server.quit()
 
 print(colored("Email enviado :)",'green'))
-
-#coded : D3pl0yzz Epysp 
